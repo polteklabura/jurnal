@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://polteklabura.github.io/jurnal/sitemap.xml
